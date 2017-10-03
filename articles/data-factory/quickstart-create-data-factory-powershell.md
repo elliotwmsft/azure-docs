@@ -181,7 +181,7 @@ In this example, this pipeline contains one activity and takes two parameters - 
                             "parameters": {
                                 "path": "@pipeline().parameters.inputPath"
                             },
-                        "type": "DatasetReference"
+                            "type": "DatasetReference"
                         }
                     ],
                     "outputs": [
